@@ -10,5 +10,7 @@ public class hello_git {
         System.out.println("hello.git");
         System.out.println("hello.git");
         System.out.println("hello.git");
+        System.out.println("13232421232313123131332313");
+        System.out.println("1234");
     }
 }
