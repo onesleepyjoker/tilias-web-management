@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.tukaani:xz:1.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../apache-maven-3.6.1-bin/apache-maven-3.6.1/mve_repo/org/tukaani/xz/1.8/xz-1.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../../../apache-maven-3.6.1-bin/apache-maven-3.6.1/mve_repo/org/tukaani/xz/1.8/xz-1.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../apache-maven-3.6.1-bin/apache-maven-3.6.1/mve_repo/org/tukaani/xz/1.8/xz-1.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
